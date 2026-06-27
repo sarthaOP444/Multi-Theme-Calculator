@@ -1,4 +1,7 @@
 🧮 Multi-Theme Calculator
+
+
+
 A sleek, fully functional web-based calculator that allows users to switch between five distinct modern UI design trends on the fly. Built entirely with HTML5 🌐, CSS3 🎨, and Vanilla JavaScript ⚡, this project serves as both a practical utility and a showcase of advanced frontend styling techniques.
 📖 Overview
 Tired of the standard, boring calculator interface? 🤔 The Multi-Theme Calculator offers a personalized experience by letting you choose the visual aesthetic that fits your mood! From raw, structural designs to soft, futuristic layouts, this project seamlessly transitions between completely different CSS architectures using a single underlying HTML and JavaScript logic structure. 🚀
